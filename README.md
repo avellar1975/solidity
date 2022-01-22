@@ -1,6 +1,4 @@
-# Solidity
-
-Treinamento da linguagem Solidity
+# <img src='https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg' width='20x20'> Solidity
 
 ## Carteira MetaMask
 
