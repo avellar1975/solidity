@@ -53,4 +53,4 @@ Consegue gerar um BNB a cada 24 horas (testes realizados em Jan/2022)
 ## IDE On-line Remix
 https://remix.ethereum.org/
 
-
+O ambiente de Deploy utilizado é o **Injected Web3**, isso vai fazer com que haja uma conexão com a carteira MetaMask.
