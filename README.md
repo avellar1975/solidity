@@ -47,7 +47,16 @@ Binance Smart Chain tem um padrão de token BEP20 que funciona de forma semelhan
 
 https://testnet.binance.org/faucet-smart
 
-Consegue gerar um BNB a cada 24 horas (testes realizados em Jan/2022)
+Consegue gerar um BNB a cada 24 horas (testes realizados em jan/22)
+
+https://faucet.egorfine.com/
+Gera 0.1 ETH a cada 24 horas (teste realizado em jan/22) - Ropsten testnet faucet
+
+https://faucets.chain.link/
+Gera 0.1 ETH a cada pedido (teste realizado em jan/22)
+* Ethereum Kovan
+* Ethereum Goerli
+* Ethereum Rinkeby
 
 
 ## IDE On-line Remix
