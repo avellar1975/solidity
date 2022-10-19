@@ -55,9 +55,10 @@ Gera 0.1 ETH a cada 24 horas (teste realizado em jan/22) - Ropsten testnet fauce
 https://faucets.chain.link/
 Gera 0.1 ETH a cada pedido (teste realizado em jan/22)
 * Ethereum Kovan
-* Ethereum Goerli
+* Ethereum Goerli 
 * Ethereum Rinkeby
 
+https://goerlifaucet.com/
 
 ## IDE On-line Remix
 https://remix.ethereum.org/
